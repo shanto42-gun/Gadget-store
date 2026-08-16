@@ -1,0 +1,37 @@
+[
+  {
+    "id": "TC001",
+    "title": "post pages login php authenticate user",
+    "description": "Test user authentication by sending POST requests to /pages/login.php with valid and invalid credentials. Verify correct session cookie issuance on success and appropriate error messages on failure."
+  },
+  {
+    "id": "TC002",
+    "title": "post pages signup php register new user",
+    "description": "Test user registration by sending POST requests to /pages/signup.php with new and existing email addresses. Verify 201 Created response with user_id and session cookie for new users and 409 Conflict error for duplicate emails."
+  },
+  {
+    "id": "TC003",
+    "title": "get api products get products php fetch products",
+    "description": "Test product fetching by sending GET requests to /api/products/get_products.php with various query parameters like page, limit, category, and sort. Verify correct paginated product lists, filtering, sorting, and proper error handling for invalid parameters."
+  },
+  {
+    "id": "TC004",
+    "title": "post api cart add php add product to cart",
+    "description": "Test adding products to cart by sending POST requests to /api/cart/add.php with product_id and quantity, including cases for in-stock and out-of-stock products. Verify updated cart summary on success and 409 Conflict error for out-of-stock."
+  },
+  {
+    "id": "TC005",
+    "title": "post api checkout process php process order",
+    "description": "Test order processing by sending POST requests to /api/checkout/process.php with payment_method, shipping_address, and optional coupon_code. Verify 201 Created response with order_id and status 'pending', and validate error handling for missing required fields."
+  },
+  {
+    "id": "TC006",
+    "title": "get admin products php admin product management",
+    "description": "Test admin product management access by sending GET requests to /admin/products.php with and without valid admin session cookies. Verify 200 OK with product management UI for authorized admins and 302 Redirect or 401 Unauthorized for unauthorized access."
+  },
+  {
+    "id": "TC007",
+    "title": "get admin orders php admin order management",
+    "description": "Test admin order management access by sending GET requests to /admin/orders.php with valid admin session cookies. Verify 200 OK response with order management UI."
+  }
+]

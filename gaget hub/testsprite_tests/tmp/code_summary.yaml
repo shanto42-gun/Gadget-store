@@ -1,0 +1,69 @@
+version: "2"
+type: backend
+tech_stack:
+  - php
+  - mysql
+  - html
+  - css
+  - javascript
+features:
+  - name: User Authentication
+    description: Signup, login, logout functionality
+    files:
+      - pages/login.php
+      - pages/signup.php
+      - pages/logout.php
+    endpoints:
+      - method: POST
+        path: /pages/login.php
+        description: Authenticate user
+        auth_required: false
+      - method: POST
+        path: /pages/signup.php
+        description: Register new user
+        auth_required: false
+  - name: Product Management
+    description: Browse products and view details
+    files:
+      - pages/products.php
+      - pages/product-detail.php
+      - api/products/get_products.php
+    endpoints:
+      - method: GET
+        path: /api/products/get_products.php
+        description: Fetch products
+        auth_required: false
+  - name: Cart and Checkout
+    description: Add items to cart and checkout
+    files:
+      - pages/cart.php
+      - pages/checkout.php
+      - api/cart/add.php
+      - api/cart/update.php
+      - api/cart/remove.php
+    endpoints:
+      - method: POST
+        path: /api/cart/add.php
+        description: Add product to cart
+        auth_required: true
+      - method: POST
+        path: /api/checkout/process.php
+        description: Process order
+        auth_required: true
+  - name: Admin Dashboard
+    description: Manage products, users, orders
+    files:
+      - admin/index.php
+      - admin/products.php
+      - admin/orders.php
+      - admin/users.php
+    endpoints:
+      - method: GET
+        path: /admin/products.php
+        description: Admin product management
+        auth_required: true
+      - method: GET
+        path: /admin/orders.php
+        description: Admin order management
+        auth_required: true
+known_limitations: []

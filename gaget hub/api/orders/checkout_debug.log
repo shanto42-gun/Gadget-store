@@ -1,0 +1,173 @@
+[2026-03-10 12:58:23] Checkout attempt started. Method: POST
+[2026-03-10 12:58:23] Data received: Array
+(
+    [name] => anto
+    [phone] => 01736646809
+    [email] => tempmail234@gmail.com
+    [address] => antola
+    [city] => agfh
+    [notes] => 
+    [payment_method] => cod
+    [payment_ref] => 
+)
+
+[2026-03-10 12:58:23] Cart items count: 1
+[2026-03-10 12:58:23] Transaction started. Order Number: TGS-F7F1B9-26
+[2026-03-10 12:58:23] Order record created. ID: 26
+[2026-03-10 12:58:23] Order items and stock updated.
+[2026-03-10 12:58:23] Cart cleared.
+[2026-03-10 12:58:23] Transaction committed successfully.
+[2026-03-10 22:25:01] Checkout attempt started. Method: POST
+[2026-03-10 22:25:01] Data received: Array
+(
+    [name] => shanto
+    [phone] => mhshantod72@gmail.co
+    [email] => mhshantod72@gmail.com
+    [address] => 1090 Blackwell Street
+    [city] => Wasilla
+    [notes] => 
+    [payment_method] => cod
+    [payment_ref] => 
+)
+
+[2026-03-10 22:25:01] Cart items count: 1
+[2026-03-10 22:25:01] Transaction started. Order Number: TGS-DD1F70-26
+[2026-03-10 22:25:01] Order record created. ID: 27
+[2026-03-10 22:25:01] Order items and stock updated.
+[2026-03-10 22:25:01] Cart cleared.
+[2026-03-10 22:25:01] Transaction committed successfully.
+[2026-03-10 23:48:16] Checkout attempt started. Method: POST
+[2026-03-10 23:48:16] Data received: Array
+(
+    [name] => shanto
+    [phone] => mhshantod72@gmail.co
+    [email] => mhshantod72@gmail.com
+    [address] => dhaka
+    [city] => dhaka
+    [notes] => 
+    [payment_method] => cod
+    [payment_ref] => 
+)
+
+[2026-03-10 23:48:16] Cart items count: 1
+[2026-03-10 23:48:16] Transaction started. Order Number: TGS-01664B-26
+[2026-03-10 23:48:16] Order record created. ID: 28
+[2026-03-10 23:48:16] Order items and stock updated.
+[2026-03-10 23:48:16] Cart cleared.
+[2026-03-10 23:48:16] Transaction committed successfully.
+[2026-03-12 17:51:26] Checkout attempt started. Method: POST
+[2026-03-12 17:51:26] Data received: Array
+(
+    [name] => mijan
+    [phone] => 01718250398
+    [email] => mijan123@gmail.com
+    [address] => sylhet
+    [city] => sylhet
+    [notes] => 
+    [payment_method] => cod
+    [payment_ref] => 
+)
+
+[2026-03-12 17:51:26] Cart items count: 1
+[2026-03-12 17:51:26] Transaction started. Order Number: TGS-E0F2B2-26
+[2026-03-12 17:51:26] Order record created. ID: 29
+[2026-03-12 17:51:26] Order items and stock updated.
+[2026-03-12 17:51:26] Cart cleared.
+[2026-03-12 17:51:26] Transaction committed successfully.
+[2026-04-27 16:27:16] Checkout attempt started. Method: POST
+[2026-04-27 16:27:16] Data received: Array
+(
+    [name] => mijan
+    [phone] => 01718250398
+    [email] => mijan123@gmail.com
+    [address] => dhaka , green rode 
+    [city] => dhaka
+    [notes] => do it fast 
+    [payment_method] => cod
+    [payment_ref] => 
+)
+
+[2026-04-27 16:27:16] Cart items count: 1
+[2026-04-27 16:27:16] Transaction started. Order Number: TGS-4C0D0D-26
+[2026-04-27 16:27:16] Order record created. ID: 30
+[2026-04-27 16:27:16] Order items and stock updated.
+[2026-04-27 16:27:16] Cart cleared.
+[2026-04-27 16:27:16] Transaction committed successfully.
+[2026-04-27 16:41:13] Checkout attempt started. Method: POST
+[2026-04-27 16:41:13] Data received: Array
+(
+    [name] => mijan
+    [phone] => 01718250398
+    [email] => mijan123@gmail.com
+    [address] => dhaka , green rode
+    [city] => dhaka
+    [notes] => do it fast 
+    [payment_method] => cod
+    [payment_ref] => 
+)
+
+[2026-04-27 16:41:13] Cart items count: 1
+[2026-04-27 16:41:13] Transaction started. Order Number: TGS-9AD0BF-26
+[2026-04-27 16:41:13] Order record created. ID: 31
+[2026-04-27 16:41:13] Order items and stock updated.
+[2026-04-27 16:41:13] Cart cleared.
+[2026-04-27 16:41:13] Transaction committed successfully.
+[2026-05-18 06:03:48] Checkout attempt started. Method: POST
+[2026-05-18 06:03:48] Data received: Array
+(
+    [name] => sakib
+    [phone] => 01718250398
+    [email] => sakib@gmail.com
+    [address] => subid bazar
+    [city] => sylhet
+    [notes] => 
+    [payment_method] => cod
+    [payment_ref] => 
+    [coupon_code] => htgnj
+)
+
+[2026-05-18 06:03:48] Cart items count: 1
+[2026-05-18 06:03:48] Coupon invalid or conditions not met.
+[2026-05-18 06:03:48] Transaction started. Order Number: TGS-47690F-26
+[2026-05-18 06:03:48] Order record created. ID: 32
+[2026-05-18 06:03:48] Order items and stock updated.
+[2026-05-18 06:03:48] Cart cleared.
+[2026-05-18 06:03:48] Transaction committed successfully.
+[2026-05-18 06:47:31] Checkout attempt started. Method: POST
+[2026-05-18 06:47:31] Data received: Array
+(
+    [name] => shanto
+    [phone] => 0174092938
+    [email] => mhshanto855@gmail.com
+    [address] => stlher,lama
+    [city] => sylhet
+    [notes] => plz send it fast
+    [payment_method] => cod
+    [payment_ref] => 
+)
+
+[2026-05-18 06:47:31] Cart items count: 1
+[2026-05-18 06:47:31] Transaction started. Order Number: TGS-340F4B-26
+[2026-05-18 06:47:31] Order record created. ID: 33
+[2026-05-18 06:47:31] Order items and stock updated.
+[2026-05-18 06:47:31] Cart cleared.
+[2026-05-18 06:47:31] Transaction committed successfully.
+[2026-05-18 07:08:08] Checkout attempt started. Method: POST
+[2026-05-18 07:08:08] Data received: Array
+(
+    [name] => fahim ahmed
+    [phone] => 01722615963
+    [email] => fahim08@gmail.com
+    [address] => madina market
+    [city] => sylhet
+    [notes] => send it fast
+    [payment_method] => cod
+    [payment_ref] => 
+)
+
+[2026-05-18 07:08:08] Cart items count: 2
+[2026-05-18 07:08:08] Transaction started. Order Number: TGS-8E0813-26
+[2026-05-18 07:08:08] Order record created. ID: 34
+[2026-05-18 07:08:08] Order items and stock updated.
+[2026-05-18 07:08:08] Cart cleared.
+[2026-05-18 07:08:08] Transaction committed successfully.
