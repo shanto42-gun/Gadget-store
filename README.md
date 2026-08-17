@@ -1,5 +1,5 @@
-![Uploading image.png…]()
-<img src="logo.png" width="300">
+<img width="1914" height="634" alt="Screenshot 2026-08-17 073107" src="https://github.com/user-attachments/assets/1275ae0c-93ab-496f-865a-959374951a34" />
+
 # 🛒 TechGadget Store
 
 A fully functional, responsive **e-commerce web application** for gadgets — built with PHP, MySQL, and vanilla CSS/JS. Features include product browsing, cart, checkout, order tracking, user dashboard, wishlist, reviews, and a full-featured admin panel.
